@@ -1,5 +1,7 @@
 # pryecto_sprint3
 
+# 1075314119,1083923720,1083916036,1022396698
+
 ## Project setup
 ```
 npm install
